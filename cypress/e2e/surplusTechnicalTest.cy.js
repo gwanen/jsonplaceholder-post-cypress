@@ -38,7 +38,7 @@ describe("Surplus Technical Test GET", () => {
 	it(
 		prefixTc +
 			testId++ +
-			" : Response Basic Assertion Body 2 Negative GET : /posts/{id}",
+			" : Response Basic Assertion Body 2 Negative not include GET : /posts/{id}",
 		() => {
 			cy.api({
 				method: "GET",
