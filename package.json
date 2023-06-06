@@ -1,0 +1,30 @@
+{
+  "name": "surplusindonesia",
+  "version": "1.0.0",
+  "description": "SURPLUS INONESIA API TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "REST, CYPRESS, API"
+  },
+  "keywords": [
+    "REST",
+    "CYPRESS",
+    "API"
+  ],
+  "author": "Ganendra",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwanen/SurplusIndonesiaTechnicalAssessmentAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwanen/SurplusIndonesiaTechnicalAssessmentAPI/issues"
+  },
+  "homepage": "https://github.com/gwanen/SurplusIndonesiaTechnicalAssessmentAPI#readme"
+}
