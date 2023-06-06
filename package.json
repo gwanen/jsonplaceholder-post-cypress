@@ -18,13 +18,5 @@
   },
   "dependencies": {
     "cypress-plugin-api": "^2.11.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gwanen/SurplusIndonesiaTechnicalAssessmentAPI.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gwanen/SurplusIndonesiaTechnicalAssessmentAPI/issues"
-  },
-  "homepage": "https://github.com/gwanen/SurplusIndonesiaTechnicalAssessmentAPI#readme"
+  }
 }
