@@ -10,6 +10,7 @@ The tests are consisted by 15 basic test cases to assert returns from [API](http
 1. NodeJS
 2. NPM
 3. Cypress
+4. [Cy-api](https://github.com/bahmutov/cy-api)
 
 ## Installation
 
@@ -22,6 +23,11 @@ git clone https://github.com/gwanen/surplusIndonesiaTechnicalAPI
 Install Cypress
 ```bash
 npm install cypress --save-dev
+```
+
+Install Cy-api
+```bash
+npm install --save-dev @bahmutov/cy-api
 ```
 
 ## Run on Local
