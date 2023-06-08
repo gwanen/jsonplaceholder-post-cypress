@@ -4,7 +4,7 @@ This is my answer to Surplus Indonesia Technical Assessment [API](https://jsonpl
 
 ## Description
 
-The tests are consisted by 15 basic test cases to assert returns from [API](https://jsonplaceholder.typicode.com/posts) that Surplus Indonesia has provided.
+The tests are consisted by 15 basic test cases to assert returns from [API](https://jsonplaceholder.typicode.com/posts) that provided.
 
 ## Requirements
 1. NodeJS
